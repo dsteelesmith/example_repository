@@ -12,7 +12,7 @@ All participants should complete the following activities prior to the beginning
 2.  If you do not have a [GitHub](https://github.com/) account, please create one. GitHub accounts are free.
 3.  Star this repository on GitHub so that you can find it easily. The star button is in the upper right-hand corner.
 4.  Download and install [GitHub Desktop](https://desktop.github.com/) for your operating system. Then run the application and go to Preferences \> Accounts. From there, connect GitHub Desktop to your GitHub account.
-5.  Complete the brief online survey distributed to you by Statistical Horizons.
+5.  Complete this [brief online survey](https://www.surveymonkey.com/r/HYKDR2N).
 
 In order to run all of the code in this repository, participants should ensure they have [R](https://www.r-project.org/) and [quarto](https://quarto.org/docs/get-started/) installed. However, our focus will be on version control of the code rather than executing the code, so this step is not required to participate in the course.
 
